@@ -2,11 +2,11 @@
 
 
 #### 一、项目演示地址（点击链接就可以看到）：
-https://www.bilibili.com/video/BV1yuVozSEqK/?spm_id_from=333.1387.search.video_card.click&vd_source=b5789de9f485ad6d0cfaeca1ad4b230c
+https://www.bilibili.com/video/BV1EXE7z1Edu/?spm_id_from=333.1387.search.video_card.click&vd_source=b5789de9f485ad6d0cfaeca1ad4b230c
 
 #### 二、获取地址:
 
-#### 项目获取地址：https://www.666bear.com/10417.html
+#### 项目获取地址：https://www.666bear.com/10555.html
 
 **博主介绍：✌全网粉丝20W+,csdn特邀作者、Java领域优质创作者、csdn/掘金/哔哩哔哩/知乎/道客/小红书等平台优质作者，计算机毕设实战导师，目前专注于大学生项目实战开发,讲解,毕业答疑辅导✌接计算机毕业设计程序开发、论文代写、代码讲解、出售成品源码等毕设服务，专业靠谱~**
 
